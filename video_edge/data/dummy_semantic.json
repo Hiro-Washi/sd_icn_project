@@ -1,0 +1,9 @@
+{
+  "device_id": "lineA_cam1",
+  "time_window": "10:00-10:01",
+  "events": [
+    {"timestamp": 1716789000, "class": "person", "count": 2, "anomaly": false},
+    {"timestamp": 1716789030, "class": "person", "count": 0, "anomaly": true, "note": "worker_absence"}
+  ],
+  "summary": "Worker absence detected for 30 seconds."
+}
